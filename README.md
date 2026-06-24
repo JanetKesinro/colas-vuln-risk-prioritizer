@@ -23,7 +23,7 @@ This project combines sample Tenable and Wiz findings and ranks them using pract
 - Remediation status
 
 ## Tools Represented
-- Tenable / Nessus for vulnerability scanning
+- Tenable for vulnerability scanning
 - Wiz for cloud security and attack path context
 - Python for risk scoring and reporting
 - CSV for easy data ingestion
