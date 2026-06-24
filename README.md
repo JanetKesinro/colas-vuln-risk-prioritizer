@@ -49,6 +49,10 @@ A global construction and infrastructure company may have a mix of cloud systems
 | `docs/interview_talking_points.md` | Simple talking points for the interview |
 
 ## How the Risk Score Works
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 24, 2026, 03_03_02 PM" src="https://github.com/user-attachments/assets/56155114-f432-4483-b24f-4b3737eb7c84" />
+
+
 The script calculates a business risk score using weighted factors:
 
 - CVSS score
