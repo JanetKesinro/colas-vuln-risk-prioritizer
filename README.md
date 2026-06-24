@@ -68,5 +68,3 @@ The score helps separate urgent items from routine patching.
 ## Example Output
 A critical internet-facing cloud VM with a known exploited vulnerability would rank above a medium vulnerability on a non-critical internal server.
 
-## Disclaimer
-This project uses mock data only. It does not contain or claim to contain any internal Colas data.
