@@ -1,5 +1,8 @@
 # Colas Vulnerability & Cloud Risk Prioritizer
 
+<img width="1536" height="1024" alt="ChatGPT Image Jun 24, 2026, 03_01_36 PM" src="https://github.com/user-attachments/assets/abc9dac6-7fee-42ab-a430-22715bb95780" />
+
+
 ## Purpose
 This project shows how I would support Colas as a Vulnerability Analyst using Tenable and Wiz data. The goal is to reduce noise from vulnerability scans and help remediation teams focus on the risks that matter most.
 
