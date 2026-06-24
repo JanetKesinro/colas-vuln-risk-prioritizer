@@ -1,0 +1,6 @@
+asset_id,asset_name,source,cloud_provider,finding_type,cvss,severity,internet_facing,known_exploited,exploit_available,asset_criticality,days_open,attack_path,remediation_status,owner
+C-2001,prod-web-vm,Wiz,Azure,Vulnerable VM with public exposure,9.1,Critical,Yes,Yes,Yes,High,18,Public exposure to critical workload,Open,Cloud Team
+C-2002,storage-prod-logs,Wiz,Azure,Public storage misconfiguration,8.2,High,Yes,No,No,High,26,Public storage with sensitive log data,Open,Cloud Team
+C-2003,kubernetes-node-03,Wiz,AWS,Container image critical vulnerability,8.8,High,No,No,Yes,Medium,12,Container can access internal services,Open,DevOps
+C-2004,identity-service,Wiz,Azure,Overprivileged managed identity,7.5,High,No,No,No,High,60,Identity can access multiple subscriptions,Open,IAM Team
+C-2005,dev-bucket,Wiz,AWS,Non-production bucket exposure,5.3,Medium,Yes,No,No,Low,10,No sensitive data identified,Open,DevOps

@@ -1,0 +1,6 @@
+asset_id,asset_name,source,plugin_id,cve,cvss,severity,internet_facing,known_exploited,exploit_available,asset_criticality,days_open,remediation_status,owner
+A-1001,public-vpn-gateway,Tenable,19506,CVE-2024-3094,9.8,Critical,Yes,Yes,Yes,High,42,Open,Infrastructure
+A-1002,finance-app-server,Tenable,15901,CVE-2023-34362,9.8,Critical,No,Yes,Yes,High,31,Open,Application Team
+A-1003,file-server-22,Tenable,11219,CVE-2022-30190,7.8,High,No,Yes,Yes,Medium,120,Exception Requested,Windows Team
+A-1004,dev-linux-08,Tenable,22103,CVE-2021-3156,7.8,High,No,No,Yes,Low,90,Open,Linux Team
+A-1005,printer-admin,Tenable,33850,CVE-2020-0796,8.1,High,No,No,No,Low,15,Open,End User Tech
