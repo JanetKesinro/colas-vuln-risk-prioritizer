@@ -61,8 +61,5 @@ The score helps separate urgent items from routine patching.
 ## Example Output
 A critical internet-facing cloud VM with a known exploited vulnerability would rank above a medium vulnerability on a non-critical internal server.
 
-## How I Would Explain This in the Interview
-I built a small project around how I would approach vulnerability analysis at Colas using Tenable and Wiz. Since the role is heavily focused on vulnerability analysis, I wanted to show that I understand how to move beyond raw scanner output and prioritize findings based on business risk. The project combines sample Tenable and Wiz data, scores the findings, and produces a remediation-focused report that technical teams and leadership can both understand.
-
 ## Disclaimer
 This project uses mock data only. It does not contain or claim to contain any internal Colas data.
